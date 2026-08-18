@@ -25,7 +25,7 @@
     "require": {
         "ext-soap": "*",
         "ext-curl": "*",
-        "laravel/framework": "^8|^9|^10|^11",
+        "laravel/framework": "^8|^9|^10|^11|^12|^13",
         "movemoveapp/laravel-dadata": "^1.0",
         "spatie/laravel-package-tools": "^1.18",
         "hekmatinasser/verta": "^8.4"
